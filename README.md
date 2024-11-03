@@ -5,3 +5,4 @@
 # Module 10 Task 1 Create a bird Class with 3 attributes and 3 methods.
 # Module 13 Task 1 Implementing the logic for determining the greater of two variables.
 # Module 14 Task 1 Comment on explaining what is happening in the lines code.
+# The Description of my network diagram is that it is an example of the wireless network that I have at my own home with a cable company provider. Of all the topoligies listed I believe it is closely related to the Infrastructure Topology. The wireless router is connected to a coaxial cable which is connected to a outlet in the wall that is activated by the cable company. The wireless router once connected tto the coaxial cable projects a wireless signal that communicates with everything via wireless signal. The reason I selected this as an example was because it was the easiest for me to relate to, and I have all the knowledge of the network.
